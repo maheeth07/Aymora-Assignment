@@ -1,0 +1,114 @@
+[
+  {
+    "id": "wyr-01",
+    "category": "Lifestyle & Morning Rhythms",
+    "prompt": "How do you prefer to start a memorable Sunday?",
+    "option_a": "Wake up early for a misty morning trail hike with a thermos of hot coffee",
+    "option_b": "Sleep in guilt-free, make a slow multi-course brunch, and read vinyl liner notes"
+  },
+  {
+    "id": "wyr-02",
+    "category": "Travel & Exploration",
+    "prompt": "When discovering a brand-new city with someone special, would you rather:",
+    "option_a": "Wander aimlessly with zero itinerary and stumble upon hidden neighborhood gems",
+    "option_b": "Follow a deeply researched curation of historic architecture, small galleries, and bakeries"
+  },
+  {
+    "id": "wyr-03",
+    "category": "Atmosphere & Evenings",
+    "prompt": "For an unforgettable evening conversation, would you rather:",
+    "option_a": "Sit by an open bonfire under a quiet starlit sky wrapped in blankets",
+    "option_b": "Tuck into a dimly lit, cozy corner booth at a jazz bar with vintage cocktails"
+  },
+  {
+    "id": "wyr-04",
+    "category": "Art & Creativity",
+    "prompt": "If you were given a month completely free of work obligations, would you rather:",
+    "option_a": "Learn a tactile hands-on craft like ceramic throwing, woodworking, or darkroom film",
+    "option_b": "Write, compose, or edit a deeply personal creative story or musical project"
+  },
+  {
+    "id": "wyr-05",
+    "category": "Food & Gathering",
+    "prompt": "On a cozy Friday night with close friends, would you rather:",
+    "option_a": "Host a collaborative dinner where everyone cooks homemade pasta together in the kitchen",
+    "option_b": "Order signature street food from three different secret spots and eat on the living room rug"
+  },
+  {
+    "id": "wyr-06",
+    "category": "Curiosity & Superpower",
+    "prompt": "If you could possess one subtle interpersonal gift, would you rather:",
+    "option_a": "Always know the exact song that would comfort someone in distress",
+    "option_b": "Instantly speak and understand every human dialect with native emotional nuance"
+  },
+  {
+    "id": "wyr-07",
+    "category": "Home & Sanctuary",
+    "prompt": "In your dream living sanctuary, would you rather have:",
+    "option_a": "Floor-to-ceiling glass windows overlooking a wild, rain-swept forest",
+    "option_b": "A high-ceiling loft with exposed brick, a rooftop greenhouse, and an endless book wall"
+  },
+  {
+    "id": "wyr-08",
+    "category": "Connection & Vulnerability",
+    "prompt": "When getting to know someone truly meaningful, would you rather:",
+    "option_a": "Share your most embarrassing teenage obsession and laugh until your stomach hurts",
+    "option_b": "Stay up until 3 AM discussing what you hope your life feels like thirty years from now"
+  },
+  {
+    "id": "wyr-09",
+    "category": "Adventures & Spontaneity",
+    "prompt": "For a spontaneous 48-hour escape, would you rather:",
+    "option_a": "Pack a duffle bag and take an overnight sleeper train to an unfamiliar coastal town",
+    "option_b": "Rent an off-grid architectural A-frame cabin with no Wi-Fi and lots of board games"
+  },
+  {
+    "id": "wyr-10",
+    "category": "Culture & Stories",
+    "prompt": "Would you rather experience:",
+    "option_a": "An intimate midnight screening of a rare 1970s indie film in an old cinema",
+    "option_b": "An unannounced acoustic basement concert by your favorite underground songwriter"
+  },
+  {
+    "id": "wyr-11",
+    "category": "Philosophy & Reflection",
+    "prompt": "If you could receive an undeniable answer to one life question, would you rather know:",
+    "option_a": "The deepest positive impact your existence had on strangers without you knowing",
+    "option_b": "What alternate timeline of your life you would have lived if you took that one past leap"
+  },
+  {
+    "id": "wyr-12",
+    "category": "Daily Pleasures",
+    "prompt": "If you had to pick one sensory luxury for the rest of your life, would you rather have:",
+    "option_a": "Perfect espresso or artisanal tea brewed fresh every single morning",
+    "option_b": "Freshly laundered crisp linen sheets on your bed every single night"
+  },
+  {
+    "id": "wyr-13",
+    "category": "Humor & Social Dynamics",
+    "prompt": "At a lively dinner party, would you rather:",
+    "option_a": "Tell a true ridiculous story that makes the entire table burst into uncontrollable laughter",
+    "option_b": "Find one fascinating person in the corner and end up in a captivating 2-hour conversation"
+  },
+  {
+    "id": "wyr-14",
+    "category": "Learning & Wisdom",
+    "prompt": "Would you rather spend an uninterrupted weekend:",
+    "option_a": "Browsing a centuries-old multi-story library archive with secret reading nooks",
+    "option_b": "Hiking through ancient redwood groves learning plant foraging and natural ecology"
+  },
+  {
+    "id": "wyr-15",
+    "category": "Future & Legacy",
+    "prompt": "Would you rather be remembered by the people you love as someone who was:",
+    "option_a": "Fiercely authentic, fearless in passion, and endlessly inspiring",
+    "option_b": "Deeply empathetic, a grounding safe harbor, and profoundly kind"
+  },
+  {
+    "id": "wyr-16",
+    "category": "Play & Competition",
+    "prompt": "On a game night with your partner, would you rather:",
+    "option_a": "Team up in high-stakes cooperative strategy board games against the clock",
+    "option_b": "Play lighthearted fast-paced trivia with playful teasing and fun forfeits"
+  }
+]

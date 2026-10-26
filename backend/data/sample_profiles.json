@@ -1,0 +1,356 @@
+[
+  {
+    "id": "user-00",
+    "name": "Maya Lin",
+    "age": 26,
+    "pronouns": "she/her",
+    "location": "Greenpoint, Brooklyn",
+    "occupation": "Architectural Designer",
+    "bio": "Designing sustainable daylight-filled spaces by day, hunting for Japanese pour-over beans and darkroom prints by weekend.",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+    "interests": [
+      "Specialty Coffee",
+      "Modern Architecture",
+      "Analog Photography",
+      "Ceramics",
+      "Indie Cinema",
+      "Bouldering"
+    ],
+    "preferences": {
+      "looking_for": "A curious creative partner for gallery walks & deep midnight chats",
+      "communication_style": "Thoughtful voice notes and spontaneous coffee invites",
+      "dealbreaker": "People who scroll during dinner"
+    },
+    "is_current_user": true
+  },
+  {
+    "id": "user-01",
+    "name": "Julian Vance",
+    "age": 28,
+    "pronouns": "he/him",
+    "location": "Fort Greene, Brooklyn",
+    "occupation": "Ceramicist & Studio Instructor",
+    "bio": "Wheel-throwing stoneware, collecting mid-century Scandinavian furniture, and brewing single-origin Ethiopia Guji.",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80",
+    "interests": [
+      "Ceramics",
+      "Specialty Coffee",
+      "Modern Architecture",
+      "Jazz & Vinyl",
+      "Analog Photography"
+    ],
+    "preferences": {
+      "looking_for": "Someone who appreciates slow mornings, tactile art, and good design",
+      "communication_style": "Unrushed and warm"
+    },
+    "is_current_user": false
+  },
+  {
+    "id": "user-02",
+    "name": "Elena Rostova",
+    "age": 27,
+    "pronouns": "she/her",
+    "location": "West Village, Manhattan",
+    "occupation": "Documentary Film Editor",
+    "bio": "Searching for subtle human stories in archives. Always down for late-night repertory screenings and 35mm street film runs.",
+    "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80",
+    "interests": [
+      "Indie Cinema",
+      "Analog Photography",
+      "Creative Writing",
+      "Contemporary Art",
+      "Specialty Coffee"
+    ],
+    "preferences": {
+      "looking_for": "An introspective collaborator and fellow visual storyteller",
+      "communication_style": "Film recommendations and insightful banter"
+    },
+    "is_current_user": false
+  },
+  {
+    "id": "user-03",
+    "name": "Kaelen Chen",
+    "age": 29,
+    "pronouns": "they/them",
+    "location": "Lower East Side, Manhattan",
+    "occupation": "Landscape Architect & Urban Forager",
+    "bio": "Mapping native flora across pocket parks, fermentation experiments in ceramic crocks, and climbing V5 problems.",
+    "avatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=800&q=80",
+    "interests": [
+      "Modern Architecture",
+      "Bouldering",
+      "Urban Gardening",
+      "Fermentation & Sourdough",
+      "Hiking & Trail Running"
+    ],
+    "preferences": {
+      "looking_for": "Kind souls who aren't afraid of dirt on their hands or vulnerability in conversation",
+      "communication_style": "Direct, playful, and grounded"
+    },
+    "is_current_user": false
+  },
+  {
+    "id": "user-04",
+    "name": "Siddharth Mehta",
+    "age": 30,
+    "pronouns": "he/him",
+    "location": "Cobble Hill, Brooklyn",
+    "occupation": "Acoustic Engineer & Vinyl Archivist",
+    "bio": "Obsessed with room acoustics, Japanese ambient music, and high-fidelity soundscapes. Making pour-overs with clinical precision.",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800&q=80",
+    "interests": [
+      "Jazz & Vinyl",
+      "Specialty Coffee",
+      "Modern Architecture",
+      "Philosophy",
+      "Indie Cinema"
+    ],
+    "preferences": {
+      "looking_for": "Someone to listen to whole albums with from start to finish without speaking",
+      "communication_style": "Thoughtful essays over quick texts"
+    },
+    "is_current_user": false
+  },
+  {
+    "id": "user-05",
+    "name": "Nora Lindqvist",
+    "age": 25,
+    "pronouns": "she/her",
+    "location": "Williamsburg, Brooklyn",
+    "occupation": "Sustainable Textile Designer",
+    "bio": "Natural indigo dyeing, Scandinavian minimalism, and scouring flea markets for hand-loomed wool blankets.",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=800&q=80",
+    "interests": [
+      "Ceramics",
+      "Thrifting & Vintage",
+      "Modern Architecture",
+      "Contemporary Art",
+      "Specialty Coffee"
+    ],
+    "preferences": {
+      "looking_for": "Someone with an eye for texture, color, and quiet moments",
+      "communication_style": "Expressive and sincere"
+    },
+    "is_current_user": false
+  },
+  {
+    "id": "user-06",
+    "name": "Tariq Al-Mansoor",
+    "age": 31,
+    "pronouns": "he/him",
+    "location": "Crown Heights, Brooklyn",
+    "occupation": "Investigative Journalist",
+    "bio": "Writing long-form essays on urban planning and civic memory. Espresso enthusiast, chess amateur, and weekend gravel cyclist.",
+    "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=800&q=80",
+    "interests": [
+      "Creative Writing",
+      "Philosophy",
+      "Cycling",
+      "Specialty Coffee",
+      "Indie Cinema"
+    ],
+    "preferences": {
+      "looking_for": "Intellectual sparring partner with a generous heart",
+      "communication_style": "Witty, structured, and curious"
+    },
+    "is_current_user": false
+  },
+  {
+    "id": "user-07",
+    "name": "Chloe Dupont",
+    "age": 26,
+    "pronouns": "she/her",
+    "location": "SoHo, Manhattan",
+    "occupation": "Gallery Curator & Printmaker",
+    "bio": "Curating emerging post-conceptual painters. Monotype printing in my shared studio. Believer in long dinners with natural wine.",
+    "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=800&q=80",
+    "interests": [
+      "Contemporary Art",
+      "Analog Photography",
+      "Indie Cinema",
+      "Thrifting & Vintage",
+      "Cooking Regional Italian"
+    ],
+    "preferences": {
+      "looking_for": "A lover of the arts who enjoys opening nights and debate on aesthetic theory",
+      "communication_style": "Articulate and spirited"
+    },
+    "is_current_user": false
+  },
+  {
+    "id": "user-08",
+    "name": "Marcus Sterling",
+    "age": 32,
+    "pronouns": "he/him",
+    "location": "DUMBO, Brooklyn",
+    "occupation": "Bespoke Bookbinder & Typographer",
+    "bio": "Restoring rare letterpress editions. If you like the smell of old paper, hand-sewn leather spines, and mechanical typewriters, we will get along.",
+    "avatar": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=800&q=80",
+    "interests": [
+      "Creative Writing",
+      "Modern Architecture",
+      "Thrifting & Vintage",
+      "Jazz & Vinyl",
+      "Philosophy"
+    ],
+    "preferences": {
+      "looking_for": "An old soul living in the present",
+      "communication_style": "Warm, deliberate, and courteous"
+    },
+    "is_current_user": false
+  },
+  {
+    "id": "user-09",
+    "name": "Aria Takahashi",
+    "age": 28,
+    "pronouns": "she/her",
+    "location": "Long Island City, Queens",
+    "occupation": "Robotics Researcher & Bio-Artist",
+    "bio": "Bridging kinetic sculpture with soft robotics. When away from solder irons, I am bouldering outdoors in the Gunks or hosting game nights.",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=800&q=80",
+    "interests": [
+      "Bouldering",
+      "Board Games",
+      "Sci-Fi Literature",
+      "Modern Architecture",
+      "Urban Gardening"
+    ],
+    "preferences": {
+      "looking_for": "Playful, enthusiastic minds who love building things from scratch",
+      "communication_style": "Fast banter and mutual brainstorming"
+    },
+    "is_current_user": false
+  },
+  {
+    "id": "user-10",
+    "name": "Mateo Morales",
+    "age": 29,
+    "pronouns": "he/him",
+    "location": "Bushwick, Brooklyn",
+    "occupation": "Pastry Chef & Sourdough Baker",
+    "bio": "100-hour laminated doughs, naturally leavened sourdoughs, and tracking heirloom Mexican heirloom corn varieties.",
+    "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=800&q=80",
+    "interests": [
+      "Fermentation & Sourdough",
+      "Cooking Regional Italian",
+      "Specialty Coffee",
+      "Ceramics",
+      "Bouldering"
+    ],
+    "preferences": {
+      "looking_for": "Someone to taste test experimental pastries and share hearty weekend feasts",
+      "communication_style": "Affectionate and grounded"
+    },
+    "is_current_user": false
+  },
+  {
+    "id": "user-11",
+    "name": "Zoe Kravitz-Miller",
+    "age": 27,
+    "pronouns": "she/they",
+    "location": "East Village, Manhattan",
+    "occupation": "Botanical Illustrator",
+    "bio": "Watercolors of medicinal herbs, rooftop honeybees, and foraging along Hudson River walkways. Lover of quiet museums on rainy Tuesdays.",
+    "avatar": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=800&q=80",
+    "interests": [
+      "Urban Gardening",
+      "Contemporary Art",
+      "Hiking & Trail Running",
+      "Analog Photography",
+      "Ceramics"
+    ],
+    "preferences": {
+      "looking_for": "Gentle, authentic connections centered on creativity and mutual care",
+      "communication_style": "Soft, expressive, and attentive"
+    },
+    "is_current_user": false
+  },
+  {
+    "id": "user-12",
+    "name": "Leo Thorne",
+    "age": 30,
+    "pronouns": "he/him",
+    "location": "Park Slope, Brooklyn",
+    "occupation": "Sci-Fi Author & Podcast Host",
+    "bio": "Crafting speculative fiction novels about solarpunk futures. Avid tabletop strategist and lover of loose-leaf oolong tea.",
+    "avatar": "https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?auto=format&fit=crop&w=800&q=80",
+    "interests": [
+      "Sci-Fi Literature",
+      "Board Games",
+      "Creative Writing",
+      "Philosophy",
+      "Specialty Coffee"
+    ],
+    "preferences": {
+      "looking_for": "A co-adventurer who enjoys world-building and hypothetical moral quandaries",
+      "communication_style": "Curious, thoughtful, and narrative-driven"
+    },
+    "is_current_user": false
+  },
+  {
+    "id": "user-13",
+    "name": "Camila O'Connor",
+    "age": 28,
+    "pronouns": "she/her",
+    "location": "Chelsea, Manhattan",
+    "occupation": "Choreographer & Movement Director",
+    "bio": "Exploring somatic awareness through contemporary dance. Bouldering, cycling across bridges at sunset, and catching independent dance films.",
+    "avatar": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=800&q=80",
+    "interests": [
+      "Bouldering",
+      "Cycling",
+      "Indie Cinema",
+      "Contemporary Art",
+      "Hiking & Trail Running"
+    ],
+    "preferences": {
+      "looking_for": "Someone with vibrant energy who loves staying active and being present in the body",
+      "communication_style": "Playful, spontaneous, and direct"
+    },
+    "is_current_user": false
+  },
+  {
+    "id": "user-14",
+    "name": "Dante Rossi",
+    "age": 31,
+    "pronouns": "he/him",
+    "location": "Astoria, Queens",
+    "occupation": "Sommelier & Olive Oil Importer",
+    "bio": "Traveling to biodynamic vineyards in Piedmont and Sicily. Making handmade pasta from scratch and hunting for rare vintage Italian design books.",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+    "interests": [
+      "Cooking Regional Italian",
+      "Fermentation & Sourdough",
+      "Thrifting & Vintage",
+      "Modern Architecture",
+      "Specialty Coffee"
+    ],
+    "preferences": {
+      "looking_for": "A fellow epicurean who loves four-hour weekend dinners with rich stories",
+      "communication_style": "Generous, humorous, and genuine"
+    },
+    "is_current_user": false
+  },
+  {
+    "id": "user-15",
+    "name": "Freja Holm",
+    "age": 26,
+    "pronouns": "she/her",
+    "location": "Williamsburg, Brooklyn",
+    "occupation": "Industrial Product Designer",
+    "bio": "Obsessed with ergonomics, tactile surfaces, and timeless utilitarian objects. Bouldering, dark roast pour-overs, and Danish cinema.",
+    "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80",
+    "interests": [
+      "Modern Architecture",
+      "Bouldering",
+      "Specialty Coffee",
+      "Ceramics",
+      "Indie Cinema"
+    ],
+    "preferences": {
+      "looking_for": "Someone mindful, deliberate, and captivated by intentional living",
+      "communication_style": "Warm, direct, and observant"
+    },
+    "is_current_user": false
+  }
+]
